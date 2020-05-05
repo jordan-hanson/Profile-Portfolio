@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "Jordan-Hanson-Portfolio",
+  "description": "Jordan-Hanson-Portfolio",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Jordan Hanson",
   "dependencies": {
     "gatsby": "^2.20.12",
     "gatsby-plugin-manifest": "^2.3.3",
@@ -13,7 +13,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
-    "react-images": "^1.0.0"
+    "react-images": "^1.0.0",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19"
   },
   "keywords": [
     "gatsby"

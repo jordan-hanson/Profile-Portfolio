@@ -5,8 +5,8 @@ import Gallery from '../components/Gallery'
 import Layout from '../components/layout'
 
 const HomeIndex = () => {
-  const siteTitle = 'Gatsby Starter - Strata'
-  const siteDescription = 'Site description'
+  const siteTitle = 'Jordan Hanson - Portfolio'
+  const siteDescription = 'Portfolio'
 
   return (
     <Layout>
@@ -19,23 +19,21 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              Ipsum lorem dolor aliquam ante commodo
+              Jordan Hanson
               <br />
-              magna sed accumsan arcu neque.
+
             </h2>
           </header>
           <p>
-            Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc
-            nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae
-            lobortis tortor primis integer massa adipiscing id nisi accumsan
-            pellentesque commodo blandit enim arcu non at amet id arcu magna.
-            Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate
-            lorem neque cubilia.
+            Bright, talented and ambitious Fullstack Developer with strong
+            workethic background, ambitious entrepreneur mindset, and self disciplined to work without
+            supervision. Currently creating projects with technologies such as ReactJS, MongoDB, Auth0, HTML, CSS, Boostrap,
+            NodeJS, APIs, AJAX and Styled Components.
           </p>
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Learn More
+              <a href="https://github.com/jordan-hanson" className="button">
+                GitHub Profile
               </a>
             </li>
           </ul>
@@ -48,19 +46,17 @@ const HomeIndex = () => {
 
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Full Portfolio
+              <a href="https://github.com/jordan-hanson?tab=repositories" className="button">
+                GitHub Repositories
               </a>
             </li>
           </ul>
         </section>
 
         <section id="three">
-          <h2>Get In Touch</h2>
+          <h2>Reach out to Me, I would love to hear from you!</h2>
           <p>
-            Accumsan pellentesque commodo blandit enim arcu non at amet id arcu
-            magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem
-            vulputate lorem neque lorem ipsum dolor.
+            Are you interested in a quote for an idea or business you need launched? What about updating and building your current business to more then it is now? I can help with strategic marketing experience, and build or update your current website design to fit your needs for growth.
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -104,9 +100,9 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  1234 Somewhere Rd.
+                  Small Town USA
                   <br />
-                  Nashville, TN 00000
+                  Monroe, UT 84754
                   <br />
                   United States
                 </li>
@@ -114,13 +110,13 @@ const HomeIndex = () => {
                   <h3 className="icon fa-mobile">
                     <span className="label">Phone</span>
                   </h3>
-                  000-000-0000
+                  801-231-2151
                 </li>
                 <li>
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">hello@untitled.tld</a>
+                  <a href="#">jordanhanson@dev.com</a>
                 </li>
               </ul>
             </div>
