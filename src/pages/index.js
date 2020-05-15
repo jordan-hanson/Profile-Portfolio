@@ -25,7 +25,7 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            Bright, talented and ambitious Fullstack Developer with strong
+            Bright, talented and ambitious Fullstack Developer from UofU with strong
             workethic background, ambitious entrepreneur mindset, and self disciplined to work without
             supervision. Currently creating projects with technologies such as ReactJS, MongoDB, Auth0, HTML, CSS, Boostrap,
             NodeJS, APIs, AJAX and Styled Components.
