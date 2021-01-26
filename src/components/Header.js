@@ -13,9 +13,9 @@ const Header = () => (
         <strong>I am Jordan Hanson</strong>, <br />
         a Software Developer
 
-        with a strong workethic and skill set for your
+        with a strong skillset in Java backend development
         <br />
-         business needs.
+         and React front end creation.
       </h1>
     </div>
     <Footer />

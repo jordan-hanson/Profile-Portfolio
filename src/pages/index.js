@@ -25,10 +25,10 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            Bright, talented and ambitious Fullstack Developer from UofU with strong
+            Bright, talented and ambitious Fullstack Developer from UofU and Lambda Advancement Course. I have strong
             workethic background, ambitious entrepreneur mindset, and self disciplined to work without
-            supervision. Currently creating projects with technologies such as ReactJS, MongoDB, Auth0, HTML, CSS, Boostrap,
-            NodeJS, APIs, AJAX and Styled Components.
+            supervision. Currently creating projects with technologies such as ReactJS, Java, PostGreSQL, Auth0, MongoDB, Computer Science Algorithms,
+            and NodeJS.
           </p>
           <ul className="actions">
             <li>
@@ -54,9 +54,9 @@ const HomeIndex = () => {
         </section>
 
         <section id="three">
-          <h2>Reach out to Me, I would love to hear from you!</h2>
+          <h2>Fill out the information below to receive a scheduled time to meet.</h2>
           <p>
-            Are you interested in a quote for an idea or business you need launched? What about updating and building your current business to more then it is now? I can help with strategic marketing experience, and build or update your current website design to fit your needs for growth.
+            <br />
           </p>
           <div className="row">
             <div className="8u 12u$(small)">
@@ -100,9 +100,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-home">
                     <span className="label">Address</span>
                   </h3>
-                  Small Town USA
-                  <br />
-                  Monroe, UT 84754
+                  Salt Lake City, UT 84754
                   <br />
                   United States
                 </li>
@@ -116,7 +114,7 @@ const HomeIndex = () => {
                   <h3 className="icon fa-envelope-o">
                     <span className="label">Email</span>
                   </h3>
-                  <a href="#">jordanhanson@dev.com</a>
+                  <a href="#">jordanmercedes22@gmail.com</a>
                 </li>
               </ul>
             </div>
